@@ -1,3 +1,5 @@
+[Update (2020-08-06)] The model in the backend of the website has been upgraded to GPT-3 - the description below refers to the earlier, GPT-2 version, and is therefore out of date.
+
 ## This is the project repo for www.infinite-infinite-jest.com
 
 
