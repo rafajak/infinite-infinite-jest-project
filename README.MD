@@ -67,7 +67,7 @@ It’s not, but so far it’s already significantly longer than [the original bo
 
 ### Who are you?
 
-Rafal Jakubanis ([rafajak@gmail.com](mailto:rafajak@gmail.com)) - concept, machine learning, writing the accompanying article.
+Raf ([rafajak@gmail.com](mailto:rafajak@gmail.com)) - concept, machine learning, writing the accompanying article.
 
 Mateusz Zaręba ([mateuszzareba@protonmail.com](mailto:mateuszzareba@protonmail.com)) - frontend engineering
 
